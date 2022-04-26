@@ -1,0 +1,67 @@
+Mesorregião,codigo_meso,Microrregião,codigo_micro
+"Noroeste de Minas",me1,Unaí,mi1
+"Noroeste de Minas",me1,Paracatu,mi2
+"Norte de Minas",me2,Januária,mi3
+"Norte de Minas",me2,Janaúba,mi4
+"Norte de Minas",me2,Salinas,mi5
+"Norte de Minas",me2,Pirapora,mi6
+"Norte de Minas",me2,"Montes Claros",mi7
+"Norte de Minas",me2,"Grão Mogol",mi8
+"Norte de Minas",me2,Bocaiuva,mi9
+Jequitinhonha,me3,Diamantina,mi10
+Jequitinhonha,me3,Capelinha,mi11
+Jequitinhonha,me3,Araçuaí,mi12
+Jequitinhonha,me3,"Pedra Azul",mi13
+Jequitinhonha,me3,Almenara,mi14
+"Vale do Mucuri",me4,"Teófilo Otoni",mi15
+"Vale do Mucuri",me4,Nanuque,mi16
+"Triângulo Mineiro e Alto Paranaíba",me5,Ituiutaba,mi17
+"Triângulo Mineiro e Alto Paranaíba",me5,Uberlândia,mi18
+"Triângulo Mineiro e Alto Paranaíba",me5,Patrocínio,mi19
+"Triângulo Mineiro e Alto Paranaíba",me5,"Patos de Minas",mi20
+"Triângulo Mineiro e Alto Paranaíba",me5,Frutal,mi21
+"Triângulo Mineiro e Alto Paranaíba",me5,Uberaba,mi22
+"Triângulo Mineiro e Alto Paranaíba",me5,Araxá,mi23
+"Central Mineira",me6,"Três Marias",mi24
+"Central Mineira",me6,Curvelo,mi25
+"Central Mineira",me6,"Bom Despacho",mi26
+"Metropolitana de Belo Horizonte",me7,"Sete Lagoas",mi27
+"Metropolitana de Belo Horizonte",me7,"Conceição do Mato Dentro",mi28
+"Metropolitana de Belo Horizonte",me7,"Pará de Minas",mi29
+"Metropolitana de Belo Horizonte",me7,"Belo Horizonte",mi30
+"Metropolitana de Belo Horizonte",me7,Itabira,mi31
+"Metropolitana de Belo Horizonte",me7,Itaguara,mi32
+"Metropolitana de Belo Horizonte",me7,"Ouro Preto",mi33
+"Metropolitana de Belo Horizonte",me7,"Conselheiro Lafaiete",mi34
+"Vale do Rio Doce",me8,Guanhães,mi35
+"Vale do Rio Doce",me8,Peçanha,mi36
+"Vale do Rio Doce",me8,"Governador Valadares",mi37
+"Vale do Rio Doce",me8,Mantena,mi38
+"Vale do Rio Doce",me8,Ipatinga,mi39
+"Vale do Rio Doce",me8,Caratinga,mi40
+"Vale do Rio Doce",me8,Aimorés,mi41
+"Oeste de Minas",me9,Piumhi,mi42
+"Oeste de Minas",me9,Divinópolis,mi43
+"Oeste de Minas",me9,Formiga,mi44
+"Oeste de Minas",me9,"Campo Belo",mi45
+"Oeste de Minas",me9,Oliveira,mi46
+"Sul e Sudoeste de Minas",me10,Passos,mi47
+"Sul e Sudoeste de Minas",me10,"São Sebastião do Paraíso",mi48
+"Sul e Sudoeste de Minas",me10,Alfenas,mi49
+"Sul e Sudoeste de Minas",me10,Varginha,mi50
+"Sul e Sudoeste de Minas",me10,"Poços de Caldas",mi51
+"Sul e Sudoeste de Minas",me10,"Pouso Alegre",mi52
+"Sul e Sudoeste de Minas",me10,"Santa Rita do Sapucaí",mi53
+"Sul e Sudoeste de Minas",me10,"São Lourenço",mi54
+"Sul e Sudoeste de Minas",me10,Andrelândia,mi55
+"Sul e Sudoeste de Minas",me10,Itajubá,mi56
+"Campo das Vertentes",me11,Lavras,mi57
+"Campo das Vertentes",me11,"São João del-Rei",mi58
+"Campo das Vertentes",me11,Barbacena,mi59
+"Zona da Mata",me12,"Ponte Nova",mi60
+"Zona da Mata",me12,Manhuaçu,mi61
+"Zona da Mata",me12,Viçosa,mi62
+"Zona da Mata",me12,Muriaé,mi63
+"Zona da Mata",me12,Ubá,mi64
+"Zona da Mata",me12,"Juiz de Fora",mi65
+"Zona da Mata",me12,Cataguases,mi66

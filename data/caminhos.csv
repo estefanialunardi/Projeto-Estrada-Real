@@ -1,0 +1,5 @@
+cod_caminho,caminho,distancia,rotas,inicio,"fim,"
+01,"Caminho dos Diamantes",395,18,Diamantina,"Ouro Preto"
+02,"Caminho Novo",515,18,"Ouro Preto","Porto Estrela"
+03,"Caminho Velho",710,27,"Ouro Preto",Paraty
+04,"Caminho do Sabarabuçu",160,6,"Morro Vermelho","Honório Bicalho"

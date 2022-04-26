@@ -1,0 +1,854 @@
+cod_micro,cod_municipio,municipio
+mi1,c1,Arinos
+mi1,c2,"Bonfinópolis de Minas"
+mi1,c3,Buritis
+mi1,c4,"Cabeceira Grande"
+mi1,c5,"Dom Bosco"
+mi1,c6,Formoso
+mi1,c7,Natalândia
+mi1,c8,Unaí
+mi1,c9,"Uruana de Minas"
+mi2,c10,"Brasilândia de Minas"
+mi2,c11,Guarda-Mor
+mi2,c12,"João Pinheiro"
+mi2,c13,Lagamar
+mi2,c14,"Lagoa Grande"
+mi2,c15,Paracatu
+mi2,c16,"Presidente Olegário"
+mi2,c17,"São Gonçalo do Abaeté"
+mi2,c18,"Varjão de Minas"
+mi2,c19,Vazante
+mi3,c20,"Bonito de Minas"
+mi3,c21,"Chapada Gaúcha"
+mi3,c22,"Cônego Marinho"
+mi3,c23,"Icaraí de Minas"
+mi3,c24,Itacarambi
+mi3,c25,Januária
+mi3,c26,Juvenília
+mi3,c27,Manga
+mi3,c28,"Matias Cardoso"
+mi3,c29,Miravânia
+mi3,c30,Montalvânia
+mi3,c31,"Pedras de Maria da Cruz"
+mi3,c32,Pintópolis
+mi3,c33,"São Francisco"
+mi3,c34,"São João das Missões"
+mi3,c35,Urucuia
+mi4,c36,Catuti
+mi4,c37,Espinosa
+mi4,c38,Gameleiras
+mi4,c39,Jaíba
+mi4,c40,Janaúba
+mi4,c41,Mamonas
+mi4,c42,"Mato Verde"
+mi4,c43,"Monte Azul"
+mi4,c44,"Nova Porteirinha"
+mi4,c45,"Pai Pedro"
+mi4,c46,Porteirinha
+mi4,c47,"Riacho dos Machados"
+mi4,c48,"Serranópolis de Minas"
+mi5,c49,"Águas Vermelhas"
+mi5,c50,Berizal
+mi5,c51,"Curral de Dentro"
+mi5,c52,"Divisa Alegre"
+mi5,c53,"Fruta de Leite"
+mi5,c54,Indaiabira
+mi5,c55,Montezuma
+mi5,c56,Ninheira
+mi5,c57,Novorizonte
+mi5,c58,"Rio Pardo de Minas"
+mi5,c59,Rubelita
+mi5,c60,Salinas
+mi5,c61,"Santa Cruz de Salinas"
+mi5,c62,"Santo Antônio do Retiro"
+mi5,c63,"São João do Paraíso"
+mi5,c64,Taiobeiras
+mi5,c65,"Vargem Grande do Rio Pardo"
+mi6,c66,Buritizeiro
+mi6,c67,Ibiaí
+mi6,c68,Jequitaí
+mi6,c69,"Lagoa dos Patos"
+mi6,c70,Lassance
+mi6,c71,Pirapora
+mi6,c72,Riachinho
+mi6,c73,"Santa Fé de Minas"
+mi6,c74,"São Romão"
+mi6,c75,"Várzea da Palma"
+mi7,c76,"Brasília de Minas"
+mi7,c77,"Campo Azul"
+mi7,c78,"Capitão Enéas"
+mi7,c79,"Claro dos Poções"
+mi7,c80,"Coração de Jesus"
+mi7,c81,"Francisco Sá"
+mi7,c82,Glaucilândia
+mi7,c83,Ibiracatu
+mi7,c84,Japonvar
+mi7,c85,Juramento
+mi7,c86,Lontra
+mi7,c87,Luislândia
+mi7,c88,Mirabela
+mi7,c89,"Montes Claros"
+mi7,c90,Patis
+mi7,c91,"Ponto Chique"
+mi7,c92,"São João da Lagoa"
+mi7,c93,"São João da Ponte"
+mi7,c94,"São João do Pacuí"
+mi7,c95,Ubaí
+mi7,c96,Varzelândia
+mi7,c97,Verdelândia
+mi8,c98,Botumirim
+mi8,c99,Cristália
+mi8,c100,"Grão Mogol"
+mi8,c101,Itacambira
+mi8,c102,Josenópolis
+mi8,c103,"Padre Carvalho"
+mi9,c104,Bocaiuva
+mi9,c105,"Engenheiro Navarro"
+mi9,c106,"Francisco Dumont"
+mi9,c107,Guaraciama
+mi9,c108,Olhos-d'Água
+mi10,c109,"Couto de Magalhães de Minas"
+mi10,c110,Datas
+mi10,c111,Diamantina
+mi10,c112,"Felício dos Santos"
+mi10,c113,Gouveia
+mi10,c114,"Presidente Kubitschek"
+mi10,c115,"São Gonçalo do Rio Preto"
+mi10,c116,"Senador Modestino Gonçalves"
+mi11,c117,Angelândia
+mi11,c118,Aricanduva
+mi11,c119,Berilo
+mi11,c120,Capelinha
+mi11,c121,Carbonita
+mi11,c122,"Chapada do Norte"
+mi11,c123,"Francisco Badaró"
+mi11,c124,Itamarandiba
+mi11,c125,"Jenipapo de Minas"
+mi11,c126,"José Gonçalves de Minas"
+mi11,c127,"Leme do Prado"
+mi11,c128,"Minas Novas"
+mi11,c129,Turmalina
+mi11,c130,Veredinha
+mi12,c131,Araçuaí
+mi12,c132,Caraí
+mi12,c133,"Coronel Murta"
+mi12,c134,Itinga
+mi12,c135,"Novo Cruzeiro"
+mi12,c136,"Padre Paraíso"
+mi12,c137,"Ponto dos Volantes"
+mi12,c138,"Virgem da Lapa"
+mi13,c139,"Cachoeira de Pajeú"
+mi13,c140,Comercinho
+mi13,c141,Itaobim
+mi13,c142,Medina
+mi13,c143,"Pedra Azul"
+mi14,c144,Almenara
+mi14,c145,Bandeira
+mi14,c146,Divisópolis
+mi14,c147,Felisburgo
+mi14,c148,Jacinto
+mi14,c149,Jequitinhonha
+mi14,c150,Joaíma
+mi14,c151,Jordânia
+mi14,c152,"Mata Verde"
+mi14,c153,"Monte Formoso"
+mi14,c154,Palmópolis
+mi14,c155,"Rio do Prado"
+mi14,c156,Rubim
+mi14,c157,"Salto da Divisa"
+mi14,c158,"Santa Maria do Salto"
+mi14,c159,"Santo Antônio do Jacinto"
+mi15,c160,Ataléia
+mi15,c161,Catuji
+mi15,c162,Franciscópolis
+mi15,c163,"Frei Gaspar"
+mi15,c164,Itaipé
+mi15,c165,Ladainha
+mi15,c166,Malacacheta
+mi15,c167,"Novo Oriente de Minas"
+mi15,c168,"Ouro Verde de Minas"
+mi15,c169,Pavão
+mi15,c170,Poté
+mi15,c171,Setubinha
+mi15,c172,"Teófilo Otoni"
+mi16,c173,"Águas Formosas"
+mi16,c174,Bertópolis
+mi16,c175,"Carlos Chagas"
+mi16,c176,Crisólita
+mi16,c177,"Fronteira dos Vales"
+mi16,c178,Machacalis
+mi16,c179,Nanuque
+mi16,c180,"Santa Helena de Minas"
+mi16,c181,"Serra dos Aimorés"
+mi16,c182,Umburatiba
+mi17,c183,"Cachoeira Dourada"
+mi17,c184,Capinópolis
+mi17,c185,Gurinhatã
+mi17,c186,Ipiaçu
+mi17,c187,Ituiutaba
+mi17,c188,"Santa Vitória"
+mi18,c189,Araguari
+mi18,c190,Araporã
+mi18,c191,Canápolis
+mi18,c192,"Cascalho Rico"
+mi18,c193,Centralina
+mi18,c194,Indianópolis
+mi18,c195,"Monte Alegre de Minas"
+mi18,c196,Prata
+mi18,c197,Tupaciguara
+mi18,c198,Uberlândia
+mi19,c199,"Abadia dos Dourados"
+mi19,c200,Coromandel
+mi19,c201,"Cruzeiro da Fortaleza"
+mi19,c202,Douradoquara
+mi19,c203,"Estrela do Sul"
+mi19,c204,Grupiara
+mi19,c205,"Iraí de Minas"
+mi19,c206,"Monte Carmelo"
+mi19,c207,Patrocínio
+mi19,c208,Romaria
+mi19,c209,"Serra do Salitre"
+mi20,c210,Arapuá
+mi20,c211,"Carmo do Paranaíba"
+mi20,c212,Guimarânia
+mi20,c213,"Lagoa Formosa"
+mi20,c214,Matutina
+mi20,c215,"Patos de Minas"
+mi20,c216,"Rio Paranaíba"
+mi20,c217,"Santa Rosa da Serra"
+mi20,c218,"São Gotardo"
+mi20,c219,Tiros
+mi21,c220,"Campina Verde"
+mi21,c221,Carneirinho
+mi21,c222,"Comendador Gomes"
+mi21,c223,Fronteira
+mi21,c224,Frutal
+mi21,c225,Itapagipe
+mi21,c226,Iturama
+mi21,c227,"Limeira do Oeste"
+mi21,c228,Pirajuba
+mi21,c229,Planura
+mi21,c230,"São Francisco de Sales"
+mi21,c231,"União de Minas"
+mi22,c232,"Água Comprida"
+mi22,c233,"Campo Florido"
+mi22,c234,"Conceição das Alagoas"
+mi22,c235,Conquista
+mi22,c236,Delta
+mi22,c237,Uberaba
+mi22,c238,Veríssimo
+mi23,c239,Araxá
+mi23,c240,"Campos Altos"
+mi23,c241,Ibiá
+mi23,c242,"Nova Ponte"
+mi23,c243,Pedrinópolis
+mi23,c244,Perdizes
+mi23,c245,Pratinha
+mi23,c246,Sacramento
+mi23,c247,"Santa Juliana"
+mi23,c248,Tapira
+mi24,c249,Abaeté
+mi24,c250,Biquinhas
+mi24,c251,"Cedro do Abaeté"
+mi24,c252,"Morada Nova de Minas"
+mi24,c253,Paineiras
+mi24,c254,Pompéu
+mi24,c255,"Três Marias"
+mi25,c256,"Augusto de Lima"
+mi25,c257,Buenópolis
+mi25,c258,Corinto
+mi25,c259,Curvelo
+mi25,c260,Felixlândia
+mi25,c261,Inimutaba
+mi25,c262,"Joaquim Felício"
+mi25,c263,Monjolos
+mi25,c264,"Morro da Garça"
+mi25,c265,"Presidente Juscelino"
+mi25,c266,"Santo Hipólito"
+mi26,c267,Araújos
+mi26,c268,"Bom Despacho"
+mi26,c269,"Dores do Indaiá"
+mi26,c270,"Estrela do Indaiá"
+mi26,c271,Japaraíba
+mi26,c272,"Lagoa da Prata"
+mi26,c273,"Leandro Ferreira"
+mi26,c274,Luz
+mi26,c275,"Martinho Campos"
+mi26,c276,Moema
+mi26,c277,"Quartel Geral"
+mi26,c278,"Serra da Saudade"
+mi27,c279,Araçaí
+mi27,c280,Baldim
+mi27,c281,"Cachoeira da Prata"
+mi27,c282,Caetanópolis
+mi27,c283,"Capim Branco"
+mi27,c284,Cordisburgo
+mi27,c285,"Fortuna de Minas"
+mi27,c286,Funilândia
+mi27,c287,Inhaúma
+mi27,c288,Jaboticatubas
+mi27,c289,Jequitibá
+mi27,c290,Maravilhas
+mi27,c291,Matozinhos
+mi27,c292,Papagaios
+mi27,c293,Paraopeba
+mi27,c294,Pequi
+mi27,c295,"Prudente de Morais"
+mi27,c296,"Santana de Pirapama"
+mi27,c297,"Santana do Riacho"
+mi27,c298,"Sete Lagoas"
+mi28,c299,"Alvorada de Minas"
+mi28,c300,"Conceição do Mato Dentro"
+mi28,c301,"Congonhas do Norte"
+mi28,c302,"Dom Joaquim"
+mi28,c303,"Itambé do Mato Dentro"
+mi28,c304,"Morro do Pilar"
+mi28,c305,Passabém
+mi28,c306,"Rio Vermelho"
+mi28,c307,"Santo Antônio do Itambé"
+mi28,c308,"Santo Antônio do Rio Abaixo"
+mi28,c309,"São Sebastião do Rio Preto"
+mi28,c310,"Serra Azul de Minas"
+mi28,c311,Serro
+mi29,c312,Florestal
+mi29,c313,"Onça de Pitangui"
+mi29,c314,"Pará de Minas"
+mi29,c315,Pitangui
+mi29,c316,"São José da Varginha"
+mi30,c317,"Belo Horizonte"
+mi30,c318,Betim
+mi30,c319,Brumadinho
+mi30,c320,Caeté
+mi30,c321,Confins
+mi30,c322,Contagem
+mi30,c323,Esmeraldas
+mi30,c324,Ibirité
+mi30,c325,Igarapé
+mi30,c326,Juatuba
+mi30,c327,"Lagoa Santa"
+mi30,c328,"Mário Campos"
+mi30,c329,"Mateus Leme"
+mi30,c330,"Nova Lima"
+mi30,c331,"Pedro Leopoldo"
+mi30,c332,Raposos
+mi30,c333,"Ribeirão das Neves"
+mi30,c334,"Rio Acima"
+mi30,c335,Sabará
+mi30,c336,"Santa Luzia"
+mi30,c337,"São Joaquim de Bicas"
+mi30,c338,"São José da Lapa"
+mi30,c339,Sarzedo
+mi30,c340,Vespasiano
+mi31,c341,Alvinópolis
+mi31,c342,"Barão de Cocais"
+mi31,c343,"Bela Vista de Minas"
+mi31,c344,"Bom Jesus do Amparo"
+mi31,c345,"Catas Altas"
+mi31,c346,Dionísio
+mi31,c347,Ferros
+mi31,c348,Itabira
+mi31,c349,"João Monlevade"
+mi31,c350,"Nova Era"
+mi31,c351,"Nova União"
+mi31,c352,"Rio Piracicaba"
+mi31,c353,"Santa Bárbara"
+mi31,c354,"Santa Maria de Itabira"
+mi31,c355,"São Domingos do Prata"
+mi31,c356,"São Gonçalo do Rio Abaixo"
+mi31,c357,"São José do Goiabal"
+mi31,c358,"Taquaraçu de Minas"
+mi32,c359,"Belo Vale"
+mi32,c360,Bonfim
+mi32,c361,Crucilândia
+mi32,c362,Itaguara
+mi32,c363,Itatiaiuçu
+mi32,c364,Jeceaba
+mi32,c365,Moeda
+mi32,c366,"Piedade dos Gerais"
+mi32,c367,"Rio Manso"
+mi33,c368,"Diogo de Vasconcelos"
+mi33,c369,Itabirito
+mi33,c370,Mariana
+mi33,c371,"Ouro Preto"
+mi34,c372,"Casa Grande"
+mi34,c373,"Catas Altas da Noruega"
+mi34,c374,Congonhas
+mi34,c375,"Conselheiro Lafaiete"
+mi34,c376,"Cristiano Otoni"
+mi34,c377,"Desterro de Entre Rios"
+mi34,c378,"Entre Rios de Minas"
+mi34,c379,Itaverava
+mi34,c380,"Ouro Branco"
+mi34,c381,Queluzito
+mi34,c382,"Santana dos Montes"
+mi34,c383,"São Brás do Suaçuí"
+mi35,c384,Braúnas
+mi35,c385,Carmésia
+mi35,c386,Coluna
+mi35,c387,"Divinolândia de Minas"
+mi35,c388,"Dores de Guanhães"
+mi35,c389,Gonzaga
+mi35,c390,Guanhães
+mi35,c391,Materlândia
+mi35,c392,Paulistas
+mi35,c393,Sabinópolis
+mi35,c394,"Santa Efigênia de Minas"
+mi35,c395,"São João Evangelista"
+mi35,c396,Sardoá
+mi35,c397,"Senhora do Porto"
+mi35,c398,Virginópolis
+mi36,c399,"Água Boa"
+mi36,c400,Cantagalo
+mi36,c401,"Frei Lagonegro"
+mi36,c402,"José Raydan"
+mi36,c403,Peçanha
+mi36,c404,"Santa Maria do Suaçuí"
+mi36,c405,"São José do Jacuri"
+mi36,c406,"São Pedro do Suaçuí"
+mi36,c407,"São Sebastião do Maranhão"
+mi37,c408,Alpercata
+mi37,c409,Campanário
+mi37,c410,"Capitão Andrade"
+mi37,c411,Coroaci
+mi37,c412,"Divino das Laranjeiras"
+mi37,c413,"Engenheiro Caldas"
+mi37,c414,"Fernandes Tourinho"
+mi37,c415,"Frei Inocêncio"
+mi37,c416,Galileia
+mi37,c417,"Governador Valadares"
+mi37,c418,Itambacuri
+mi37,c419,Itanhomi
+mi37,c420,Jampruca
+mi37,c421,Marilac
+mi37,c422,"Mathias Lobato"
+mi37,c423,"Nacip Raydan"
+mi37,c424,"Nova Módica"
+mi37,c425,Pescador
+mi37,c426,"São Geraldo da Piedade"
+mi37,c427,"São Geraldo do Baixio"
+mi37,c428,"São José da Safira"
+mi37,c429,"São José do Divino"
+mi37,c430,Sobrália
+mi37,c431,Tumiritinga
+mi37,c432,Virgolândia
+mi38,c433,"Central de Minas"
+mi38,c434,Itabirinha
+mi38,c435,Mantena
+mi38,c436,"Mendes Pimentel"
+mi38,c437,"Nova Belém"
+mi38,c438,"São Félix de Minas"
+mi38,c439,"São João do Manteninha"
+mi39,c440,Açucena
+mi39,c441,"Antônio Dias"
+mi39,c442,"Belo Oriente"
+mi39,c443,"Coronel Fabriciano"
+mi39,c444,Ipatinga
+mi39,c445,Jaguaraçu
+mi39,c446,Joanésia
+mi39,c447,Marliéria
+mi39,c448,Mesquita
+mi39,c449,Naque
+mi39,c450,Periquito
+mi39,c451,"Santana do Paraíso"
+mi39,c452,Timóteo
+mi40,c453,"Bom Jesus do Galho"
+mi40,c454,Bugre
+mi40,c455,Caratinga
+mi40,c456,"Córrego Novo"
+mi40,c457,"Dom Cavati"
+mi40,c458,"Entre Folhas"
+mi40,c459,Iapu
+mi40,c460,"Imbé de Minas"
+mi40,c461,Inhapim
+mi40,c462,Ipaba
+mi40,c463,"Piedade de Caratinga"
+mi40,c464,Pingo-d'Água
+mi40,c465,"Santa Bárbara do Leste"
+mi40,c466,"Santa Rita de Minas"
+mi40,c467,"São Domingos das Dores"
+mi40,c468,"São João do Oriente"
+mi40,c469,"São Sebastião do Anta"
+mi40,c470,Tarumirim
+mi40,c471,Ubaporanga
+mi40,c472,"Vargem Alegre"
+mi41,c473,Aimorés
+mi41,c474,Alvarenga
+mi41,c475,"Conceição de Ipanema"
+mi41,c476,"Conselheiro Pena"
+mi41,c477,Cuparaque
+mi41,c478,Goiabeira
+mi41,c479,Ipanema
+mi41,c480,Itueta
+mi41,c481,Mutum
+mi41,c482,Pocrane
+mi41,c483,Resplendor
+mi41,c484,"Santa Rita do Itueto"
+mi41,c485,Taparuba
+mi42,c486,Bambuí
+mi42,c487,"Córrego Danta"
+mi42,c488,Doresópolis
+mi42,c489,Iguatama
+mi42,c490,Medeiros
+mi42,c491,Piumhi
+mi42,c492,"São Roque de Minas"
+mi42,c493,Tapiraí
+mi42,c494,"Vargem Bonita"
+mi43,c495,"Carmo do Cajuru"
+mi43,c496,Cláudio
+mi43,c497,"Conceição do Pará"
+mi43,c498,Divinópolis
+mi43,c499,Igaratinga
+mi43,c500,Itaúna
+mi43,c501,"Nova Serrana"
+mi43,c502,Perdigão
+mi43,c503,"Santo Antônio do Monte"
+mi43,c504,"São Gonçalo do Pará"
+mi43,c505,"São Sebastião do Oeste"
+mi44,c506,Arcos
+mi44,c507,Camacho
+mi44,c508,"Córrego Fundo"
+mi44,c509,Formiga
+mi44,c510,Itapecerica
+mi44,c511,Pains
+mi44,c512,"Pedra do Indaiá"
+mi44,c513,Pimenta
+mi45,c514,Aguanil
+mi45,c515,"Campo Belo"
+mi45,c516,"Cana Verde"
+mi45,c517,Candeias
+mi45,c518,Cristais
+mi45,c519,Perdões
+mi45,c520,"Santana do Jacaré"
+mi46,c521,"Bom Sucesso"
+mi46,c522,"Carmo da Mata"
+mi46,c523,"Carmópolis de Minas"
+mi46,c524,Ibituruna
+mi46,c525,Oliveira
+mi46,c526,"Passa Tempo"
+mi46,c527,Piracema
+mi46,c528,"Santo Antônio do Amparo"
+mi46,c529,"São Francisco de Paula"
+mi47,c530,Alpinópolis
+mi47,c531,"Bom Jesus da Penha"
+mi47,c532,Capetinga
+mi47,c533,Capitólio
+mi47,c534,Cássia
+mi47,c535,Claraval
+mi47,c536,Delfinópolis
+mi47,c537,"Fortaleza de Minas"
+mi47,c538,Ibiraci
+mi47,c539,"Itaú de Minas"
+mi47,c540,Passos
+mi47,c541,Pratápolis
+mi47,c542,"São João Batista do Glória"
+mi47,c543,"São José da Barra"
+mi48,c544,Arceburgo
+mi48,c545,"Cabo Verde"
+mi48,c546,Guaranésia
+mi48,c547,Guaxupé
+mi48,c548,Itamogi
+mi48,c549,Jacuí
+mi48,c550,Juruaia
+mi48,c551,"Monte Belo"
+mi48,c552,"Monte Santo de Minas"
+mi48,c553,Muzambinho
+mi48,c554,"Nova Resende"
+mi48,c555,"São Pedro da União"
+mi48,c556,"São Sebastião do Paraíso"
+mi48,c557,"São Tomás de Aquino"
+mi49,c558,Alfenas
+mi49,c559,Alterosa
+mi49,c560,Areado
+mi49,c561,"Carmo do Rio Claro"
+mi49,c562,Carvalhópolis
+mi49,c563,"Conceição da Aparecida"
+mi49,c564,"Divisa Nova"
+mi49,c565,Fama
+mi49,c566,Machado
+mi49,c567,Paraguaçu
+mi49,c568,"Poço Fundo"
+mi49,c569,Serrania
+mi50,c570,"Boa Esperança"
+mi50,c571,Campanha
+mi50,c572,"Campo do Meio"
+mi50,c573,"Campos Gerais"
+mi50,c574,"Carmo da Cachoeira"
+mi50,c575,Coqueiral
+mi50,c576,"Elói Mendes"
+mi50,c577,Guapé
+mi50,c578,Ilicínea
+mi50,c579,"Monsenhor Paulo"
+mi50,c580,"Santana da Vargem"
+mi50,c581,"São Bento Abade"
+mi50,c582,"São Tomé das Letras"
+mi50,c583,"Três Corações"
+mi50,c584,"Três Pontas"
+mi50,c585,Varginha
+mi51,c586,Albertina
+mi51,c587,Andradas
+mi51,c588,"Bandeira do Sul"
+mi51,c589,Botelhos
+mi51,c590,Caldas
+mi51,c591,Campestre
+mi51,c592,"Ibitiúra de Minas"
+mi51,c593,Inconfidentes
+mi51,c594,Jacutinga
+mi51,c595,"Monte Sião"
+mi51,c596,"Ouro Fino"
+mi51,c597,"Poços de Caldas"
+mi51,c598,"Santa Rita de Caldas"
+mi52,c599,"Bom Repouso"
+mi52,c600,"Borda da Mata"
+mi52,c601,"Bueno Brandão"
+mi52,c602,Camanducaia
+mi52,c603,Cambuí
+mi52,c604,Congonhal
+mi52,c605,"Córrego do Bom Jesus"
+mi52,c606,"Espírito Santo do Dourado"
+mi52,c607,Estiva
+mi52,c608,Extrema
+mi52,c609,Gonçalves
+mi52,c610,Ipuiuna
+mi52,c611,Itapeva
+mi52,c612,Munhoz
+mi52,c613,"Pouso Alegre"
+mi52,c614,Sapucaí-Mirim
+mi52,c615,"Senador Amaral"
+mi52,c616,"Senador José Bento"
+mi52,c617,"Tocos do Moji"
+mi52,c618,Toledo
+mi53,c619,"Cachoeira de Minas"
+mi53,c620,Careaçu
+mi53,c621,"Conceição das Pedras"
+mi53,c622,"Conceição dos Ouros"
+mi53,c623,Cordislândia
+mi53,c624,Heliodora
+mi53,c625,Natércia
+mi53,c626,Pedralva
+mi53,c627,"Santa Rita do Sapucaí"
+mi53,c628,"São Gonçalo do Sapucaí"
+mi53,c629,"São João da Mata"
+mi53,c630,"São José do Alegre"
+mi53,c631,"São Sebastião da Bela Vista"
+mi53,c632,Silvianópolis
+mi53,c633,Turvolândia
+mi54,c634,Alagoa
+mi54,c635,Baependi
+mi54,c636,Cambuquira
+mi54,c637,"Carmo de Minas"
+mi54,c638,Caxambu
+mi54,c639,"Conceição do Rio Verde"
+mi54,c640,Itamonte
+mi54,c641,Itanhandu
+mi54,c642,Jesuânia
+mi54,c643,Lambari
+mi54,c644,"Olímpio Noronha"
+mi54,c645,"Passa Quatro"
+mi54,c646,"Pouso Alto"
+mi54,c647,"São Lourenço"
+mi54,c648,"São Sebastião do Rio Verde"
+mi54,c649,"Soledade de Minas"
+mi55,c650,Aiuruoca
+mi55,c651,Andrelândia
+mi55,c652,Arantina
+mi55,c653,"Bocaina de Minas"
+mi55,c654,"Bom Jardim de Minas"
+mi55,c655,Carvalhos
+mi55,c656,Cruzília
+mi55,c657,Liberdade
+mi55,c658,Minduri
+mi55,c659,"Passa Vinte"
+mi55,c660,"São Vicente de Minas"
+mi55,c661,Seritinga
+mi55,c662,Serranos
+mi56,c663,Brazópolis
+mi56,c664,Consolação
+mi56,c665,Cristina
+mi56,c666,"Delfim Moreira"
+mi56,c667,"Dom Viçoso"
+mi56,c668,Itajubá
+mi56,c669,"Maria da Fé"
+mi56,c670,Marmelópolis
+mi56,c671,Paraisópolis
+mi56,c672,Piranguçu
+mi56,c673,Piranguinho
+mi56,c674,Virgínia
+mi56,c675,"Wenceslau Braz"
+mi57,c676,Carrancas
+mi57,c677,Ijaci
+mi57,c678,Ingaí
+mi57,c679,Itumirim
+mi57,c680,Itutinga
+mi57,c681,Lavras
+mi57,c682,Luminárias
+mi57,c683,Nepomuceno
+mi57,c684,"Ribeirão Vermelho"
+mi58,c685,"Conceição da Barra de Minas"
+mi58,c686,"Coronel Xavier Chaves"
+mi58,c687,"Dores de Campos"
+mi58,c688,"Lagoa Dourada"
+mi58,c689,"Madre de Deus de Minas"
+mi58,c690,Nazareno
+mi58,c691,"Piedade do Rio Grande"
+mi58,c692,Prados
+mi58,c693,"Resende Costa"
+mi58,c694,Ritápolis
+mi58,c695,"Santa Cruz de Minas"
+mi58,c696,"Santana do Garambéu"
+mi58,c697,"São João del-Rei"
+mi58,c698,"São Tiago"
+mi58,c699,Tiradentes
+mi59,c700,"Alfredo Vasconcelos"
+mi59,c701,"Antônio Carlos"
+mi59,c702,Barbacena
+mi59,c703,Barroso
+mi59,c704,"Capela Nova"
+mi59,c705,Caranaíba
+mi59,c706,Carandaí
+mi59,c707,"Desterro do Melo"
+mi59,c708,Ibertioga
+mi59,c709,Ressaquinha
+mi59,c710,"Santa Bárbara do Tugúrio"
+mi59,c711,"Senhora dos Remédios"
+mi60,c712,Acaiaca
+mi60,c713,"Barra Longa"
+mi60,c714,"Dom Silvério"
+mi60,c715,Guaraciaba
+mi60,c716,Jequeri
+mi60,c717,Oratórios
+mi60,c718,"Piedade de Ponte Nova"
+mi60,c719,"Ponte Nova"
+mi60,c720,"Raul Soares"
+mi60,c721,"Rio Casca"
+mi60,c722,"Rio Doce"
+mi60,c723,"Santa Cruz do Escalvado"
+mi60,c724,"Santo Antônio do Grama"
+mi60,c725,"São Pedro dos Ferros"
+mi60,c726,Sem-Peixe
+mi60,c727,Sericita
+mi60,c728,Urucânia
+mi60,c729,"Vermelho Novo"
+mi61,c730,"Abre Campo"
+mi61,c731,"Alto Caparaó"
+mi61,c732,"Alto Jequitibá"
+mi61,c733,Caparaó
+mi61,c734,Caputira
+mi61,c735,Chalé
+mi61,c736,Durandé
+mi61,c737,Lajinha
+mi61,c738,Luisburgo
+mi61,c739,Manhuaçu
+mi61,c740,Manhumirim
+mi61,c741,"Martins Soares"
+mi61,c742,Matipó
+mi61,c743,"Pedra Bonita"
+mi61,c744,Reduto
+mi61,c745,"Santa Margarida"
+mi61,c746,"Santana do Manhuaçu"
+mi61,c747,"São João do Manhuaçu"
+mi61,c748,"São José do Mantimento"
+mi61,c749,Simonésia
+mi62,c750,"Alto Rio Doce"
+mi62,c751,"Amparo da Serra"
+mi62,c752,Araponga
+mi62,c753,"Brás Pires"
+mi62,c754,Cajuri
+mi62,c755,Canaã
+mi62,c756,Cipotânea
+mi62,c757,Coimbra
+mi62,c758,Ervália
+mi62,c759,Lamim
+mi62,c760,"Paula Cândido"
+mi62,c761,"Pedra do Anta"
+mi62,c762,Piranga
+mi62,c763,"Porto Firme"
+mi62,c764,"Presidente Bernardes"
+mi62,c765,"Rio Espera"
+mi62,c766,"São Miguel do Anta"
+mi62,c767,"Senhora de Oliveira"
+mi62,c768,Teixeiras
+mi62,c769,Viçosa
+mi63,c770,"Antônio Prado de Minas"
+mi63,c771,"Barão de Monte Alto"
+mi63,c772,Caiana
+mi63,c773,Carangola
+mi63,c774,Divino
+mi63,c775,"Espera Feliz"
+mi63,c776,Eugenópolis
+mi63,c777,"Faria Lemos"
+mi63,c778,Fervedouro
+mi63,c779,Miradouro
+mi63,c780,Miraí
+mi63,c781,Muriaé
+mi63,c782,Orizânia
+mi63,c783,"Patrocínio do Muriaé"
+mi63,c784,"Pedra Dourada"
+mi63,c785,"Rosário da Limeira"
+mi63,c786,"São Francisco do Glória"
+mi63,c787,"São Sebastião da Vargem Alegre"
+mi63,c788,Tombos
+mi63,c789,Vieiras
+mi64,c790,"Astolfo Dutra"
+mi64,c791,Divinésia
+mi64,c792,"Dores do Turvo"
+mi64,c793,Guarani
+mi64,c794,Guidoval
+mi64,c795,Guiricema
+mi64,c796,Mercês
+mi64,c797,Piraúba
+mi64,c798,"Rio Pomba"
+mi64,c799,Rodeiro
+mi64,c800,"São Geraldo"
+mi64,c801,"Senador Firmino"
+mi64,c802,Silveirânia
+mi64,c803,Tabuleiro
+mi64,c804,Tocantins
+mi64,c805,Ubá
+mi64,c806,"Visconde do Rio Branco"
+mi65,c807,Aracitaba
+mi65,c808,"Belmiro Braga"
+mi65,c809,"Bias Fortes"
+mi65,c810,Bicas
+mi65,c811,Chácara
+mi65,c812,Chiador
+mi65,c813,"Coronel Pacheco"
+mi65,c814,Descoberto
+mi65,c815,"Ewbank da Câmara"
+mi65,c816,Goianá
+mi65,c817,Guarará
+mi65,c818,"Juiz de Fora"
+mi65,c819,"Lima Duarte"
+mi65,c820,"Mar de Espanha"
+mi65,c821,"Maripá de Minas"
+mi65,c822,"Matias Barbosa"
+mi65,c823,Olaria
+mi65,c824,"Oliveira Fortes"
+mi65,c825,Paiva
+mi65,c826,"Pedro Teixeira"
+mi65,c827,Pequeri
+mi65,c828,Piau
+mi65,c829,"Rio Novo"
+mi65,c830,"Rio Preto"
+mi65,c831,"Rochedo de Minas"
+mi65,c832,"Santa Bárbara do Monte Verde"
+mi65,c833,"Santa Rita de Ibitipoca"
+mi65,c834,"Santa Rita de Jacutinga"
+mi65,c835,"Santana do Deserto"
+mi65,c836,"Santos Dumont"
+mi65,c837,"São João Nepomuceno"
+mi65,c838,"Senador Cortes"
+mi65,c839,"Simão Pereira"
+mi66,c840,"Além Paraíba"
+mi66,c841,Argirita
+mi66,c842,Cataguases
+mi66,c843,"Dona Eusébia"
+mi66,c844,"Estrela Dalva"
+mi66,c845,"Itamarati de Minas"
+mi66,c846,Laranjal
+mi66,c847,Leopoldina
+mi66,c848,Palma
+mi66,c849,Pirapetinga
+mi66,c850,Recreio
+mi66,c851,"Santana de Cataguases"
+mi66,c852,"Santo Antônio do Aventureiro"
+mi66,c853,"Volta Grande"
