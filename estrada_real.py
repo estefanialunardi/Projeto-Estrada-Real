@@ -1,11 +1,11 @@
 import streamlit as st
+import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import plotly.express as px 
 import plotly.graph_objects as go
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
-
-from PIL import Image
+#from PIL import Image
 
 
 st.title('Para onde ir na Estrada Real?')
@@ -259,7 +259,7 @@ with st.expander("Veja a análise"):
         st.markdown(''' O caminho mais extenso da Estrada Real é o Caminho Velho, com 710km e 27 rotas. \n  Os caminhos Novo e dos Diamantes têm a mesma quantidade de rotas: 18. \n Entretanto, o Caminho Novo conta com 515km de extensão contra 395 dos Diamantes. \n O caminho do Sabarabuçu é o menor, com apeas 6 rotas e uma distância total de 160 km. \n\n A extensão dos caminhos deve ser considerada em todas as análises quantitativas, com atenção especial para as proporçõnes''')
     with col2extensao:
         st.markdown(''' ''')
-        mapa_estrada = Image.open('fd7098cd46c2858f9e4065447343ef3f.png')
+        #mapa_estrada = Image.open('fd7098cd46c2858f9e4065447343ef3f.png')
         st.image(mapa_estrada, width=250)
 
     st.markdown('### Destinos por vocação turística')
