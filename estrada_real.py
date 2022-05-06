@@ -32,13 +32,13 @@ Para escolher os destinos, dentre as centenas de opções da Estrada, é fundame
 
 Este projeto busca trazer informações dos percursos e municípios da Estrada Real, favorecendo a escolha racional dos destinos de viagem, bem como dos melhores trechos a serem percorridos com diferentes opções de locomoção, a partir dos objetivos do turista. ''')
 
-caminhos = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\caminhos.csv')
-cidades = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\cidades.csv')
-pontos_turisticos = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\pontos_turisticos.csv')
-roteiros = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\roteiros.csv')
-hoteis_pet_friendly = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\hoteis_pet_friendly.csv')
-micro_mesorregioes_mg = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\micro_mesorregioes_mg.csv')
-micro_municipios_mg = pd.read_csv('C:\\Users\\Tete\\Curso - DA\\Estrada Real\\data\\micro_municipios_mg.csv')
+caminhos = pd.read_csv('.\\data\\caminhos.csv')
+cidades = pd.read_csv('.\\data\\cidades.csv')
+pontos_turisticos = pd.read_csv('.\\data\\pontos_turisticos.csv')
+roteiros = pd.read_csv('.\\data\\roteiros.csv')
+hoteis_pet_friendly = pd.read_csv('.\\data\\hoteis_pet_friendly.csv')
+micro_mesorregioes_mg = pd.read_csv('.\\data\\micro_mesorregioes_mg.csv')
+micro_municipios_mg = pd.read_csv('.\\data\\micro_municipios_mg.csv')
 
 
 st.sidebar.markdown('#### Escolha seu destino')
@@ -51,7 +51,7 @@ if duracao < 2:
     cam_dia+=6
     cam_nov+=4
     cam_vel+=2
-    cam_sab+=8
+    cam_sab+=12
 elif duracao < 4:
     cam_dia+=8
     cam_nov+=4
@@ -264,58 +264,22 @@ with st.expander("Veja a análise"):
 
     st.markdown('### Destinos por vocação turística')
     pontos_turisticos_dict = {'Acaiaca': ['Estação Ferroviária'], 'Alvinópolis': ['Igreja Matriz de Nossa Senhora do Rosário'], 'Alvorada de Minas': ['Cachoeira da Campina','Igreja Matriz Santo Antônio','Mirante da Escadinha'],
- 'Barão de Cocais': ['Cachoeira Cocais',
-  'Cachoeira da Cambota',
-  'Cruzeiro das Almas',
-  'Santuário de São João Batista'],
- 'Barra Longa': [],
- 'Bela Vista de Minas': ['Cachoeira do Taquaril'],
- 'Bento Rodrigues': [],
- 'Bom Jesus do Amparo': ['Igreja Matriz Bom Jesus do Amparo'],
- 'Camargos': [],
- 'Carmésia': [],
- 'Catas Altas': ['Aqueduto Bicame de Pedra',
-  'Banho do Belchior',
-  'Capela Santa Quitéria',
-  'Caraça Bier Fest - Catas Altas',
-  'Igreja de Nossa Senhora do Rosário',
-  'Igreja Matriz de Nossa Senhora da Conceição',
-  'Pico de Catas Altas',
-  'Pico do Baiano'],
- 'Cocais': ['Fazenda da Estalagem',
-  'Igreja de Nossa Senhora do Rosário',
-  "Igreja de Sant'Anna",
-  'Sitio Arqueológico Pedra Pintada',
-  'Sobrado do Cartório'],
- 'Conceição do Mato Dentro': ['Balneário Córrego do Baú',
-  'Balneário  Piscina de Água Quente',
-  'Cachoeira do Tabuleiro',
-  'Cachoeira Rabo de Cavalo',
-  'Cachoeira Três Barras',
-  'Fubá Suado - Conceição do Mato Dentro',
-  'Igreja Matriz de Nossa Senhora da Aparecida',
-  'Igreja Matriz de Nossa Senhora da Conceição'],
- 'Congonhas do Norte': ['Cachoeira da Barragem (do Levi)'],
- 'Corregos': [],
- 'Couto de Magalhães de Minas': ['Água Santa',
-  'Cachoeira da Fábrica',
-  'Cachoeira dos Vaqueiros',
-  'Cachoeira do Tomé',
-  'Capela Senhor de Bom Jesus de Matozinhos',
-  'Igreja Nossa Senhora da Conceição',
-  'Pinturas Rupestres'],
- 'Datas': ['Igreja Matriz do Divino Espírito Santo',
-  'Lapa Pintada',
-  'Morango - Datas'],
- 'Diamantina': ['Cachoeira das Fadas',
-  'Cachoeira da Toca',
-  'Cachoeira dos Cristais',
-  'Cachoeira dos Remédios',
-  'Cachoeira do Telésforo',
-  'Caminho dos Escravos',
+ 'Barão de Cocais': ['Cachoeira Cocais',  'Cachoeira da Cambota',  'Cruzeiro das Almas',
+  'Santuário de São João Batista'], 'Barra Longa': [], 'Bela Vista de Minas': ['Cachoeira do Taquaril'],
+ 'Bento Rodrigues': [], 'Bom Jesus do Amparo': ['Igreja Matriz Bom Jesus do Amparo'], 'Camargos': [],
+ 'Carmésia': [], 'Catas Altas': ['Aqueduto Bicame de Pedra',
+  'Banho do Belchior',  'Capela Santa Quitéria',  'Caraça Bier Fest - Catas Altas',  'Igreja de Nossa Senhora do Rosário',  'Igreja Matriz de Nossa Senhora da Conceição',  'Pico de Catas Altas',  'Pico do Baiano'], 'Cocais': ['Fazenda da Estalagem',
+  'Igreja de Nossa Senhora do Rosário',  "Igreja de Sant'Anna",  'Sitio Arqueológico Pedra Pintada',
+  'Sobrado do Cartório'], 'Conceição do Mato Dentro': ['Balneário Córrego do Baú',  'Balneário  Piscina de Água Quente',
+  'Cachoeira do Tabuleiro',  'Cachoeira Rabo de Cavalo',  'Cachoeira Três Barras',  'Fubá Suado - Conceição do Mato Dentro',
+  'Igreja Matriz de Nossa Senhora da Aparecida',  'Igreja Matriz de Nossa Senhora da Conceição'],
+ 'Congonhas do Norte': ['Cachoeira da Barragem (do Levi)'], 'Corregos': [], 'Couto de Magalhães de Minas': ['Água Santa',
+  'Cachoeira da Fábrica',  'Cachoeira dos Vaqueiros',  'Cachoeira do Tomé',  'Capela Senhor de Bom Jesus de Matozinhos',
+  'Igreja Nossa Senhora da Conceição',  'Pinturas Rupestres'], 'Datas': ['Igreja Matriz do Divino Espírito Santo',
+  'Lapa Pintada',  'Morango - Datas'], 'Diamantina': ['Cachoeira das Fadas',  'Cachoeira da Toca',
+  'Cachoeira dos Cristais',  'Cachoeira dos Remédios',  'Cachoeira do Telésforo',  'Caminho dos Escravos',
   'Capela Imperial de Nossa Senhora do Amparo',
-  'Casa da Chica da Silva'],
- 'Dom Joaquim': ['APA Gameleira', 'Complexo Turístico da Barragem'],
+  'Casa da Chica da Silva'], 'Dom Joaquim': ['APA Gameleira', 'Complexo Turístico da Barragem'],
  'Dores de Guanhães': ['Cachoeira da Guarda', 'Cachoeira do Sabiá'],
  'Felício dos Santos': ['Cachoeira do Palmito',
   'Igreja Dona Izabel',
