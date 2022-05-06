@@ -32,13 +32,13 @@ Para escolher os destinos, dentre as centenas de opções da Estrada, é fundame
 
 Este projeto busca trazer informações dos percursos e municípios da Estrada Real, favorecendo a escolha racional dos destinos de viagem, bem como dos melhores trechos a serem percorridos com diferentes opções de locomoção, a partir dos objetivos do turista. ''')
 
-caminhos = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/caminhos.csv')
-cidades = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/cidades.csv')
-pontos_turisticos = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/pontos_turisticos.csv')
-roteiros = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/roteiros.csv')
-hoteis_pet_friendly = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/hoteis_pet_friendly.csv')
-micro_mesorregioes_mg = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/micro_mesorregioes_mg.csv')
-micro_municipios_mg = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/micro_municipios_mg.csv')
+caminhos = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/caminhos.csv', encoding='latin-1')
+cidades = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/cidades.csv', encoding='latin-1')
+pontos_turisticos = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/pontos_turisticos.csv', encoding='latin-1')
+roteiros = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/roteiros.csv', encoding='latin-1')
+hoteis_pet_friendly = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/hoteis_pet_friendly.csv', encoding='latin-1')
+micro_mesorregioes_mg = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/micro_mesorregioes_mg.csv', encoding='latin-1')
+micro_municipios_mg = pd.read_csv('https://github.com/estefanialunardi/Projeto-Estrada-Real/blob/main/data/micro_municipios_mg.csv', encoding='latin-1')
 
 
 st.sidebar.markdown('#### Escolha seu destino')
