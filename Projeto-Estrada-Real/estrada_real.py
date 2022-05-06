@@ -51,7 +51,7 @@ if duracao < 2:
     cam_dia+=6
     cam_nov+=4
     cam_vel+=2
-    cam_sab+=8
+    cam_sab+=12
 elif duracao < 4:
     cam_dia+=8
     cam_nov+=4
