@@ -63,7 +63,8 @@ O conteúdo, de texto e de dados, foi preparado no Visual Studio Code, com códi
 
       
 #### Sistema de recomendações:
-Foi desenvolvido um sistema de recomendações de viagem com filtragem baseada na preferência e perfil de viagem do usuário. Ele considera o tempo, meio de locomoção, preferências de destino turístico e a necessidade de acomodar pets. 
+Foi desenvolvido um sistema de recomendações de viagem com filtragem baseada em conteúdo, a partir das preferência e perfil de viagem que o usuário informa. 
+Ele considera o tempo, meio de locomoção, preferências de destino turístico e a necessidade de acomodar pets e, então, calcula a similaridade dos atributos entre os caminhos e recomenda um destino.
 
 
 ## Análise dos dados
