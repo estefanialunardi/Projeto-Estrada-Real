@@ -199,9 +199,11 @@ if checkbox_metodos:
         Todos os dados foram carregados e armazenados em uma database no MySQL, utilizando as bibliotecas SQLAlchemy e Pymysql para conexão com a ferramenta de banco de dados e da biblioteca Pandas para envio das tabelas ("pandas.DataFrame.to_sql").
         
         __* Apresentação: *__
+
         O conteúdo, de texto e de dados, foi preparado no Visual Studio Code, com código em Python puro para ser apresentado em uma aplicação Web utilizando a biblioteca Streamlit. Além da análise dos dados, o usuário tem acesso a todas as informações de bibliotecas e métodos utilizados nesse projeto.
 
         __* Sistema de recomendações: *__
+        
         Foi desenvolvido um sistema de recomendações de viagem com filtragem baseada na preferência e perfil de viagem do usuário. Ele considera o tempo, meio de locomoção, preferências de destino turístico e a necessidade de acomodar pets. 
         ''')
 
